@@ -10,7 +10,8 @@
 <a href="https://linkedin.com/in/alifardika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenrickpd" height="30" width="40" /></a>
 <a href="https://instagram.com/ardikar_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenrickpd_" height="30" width="40" /></a>
 </p>
-- 🌏 My personal website [www.ardikalivetocode.my.id](www.ardikalivetocode.my.id)
+
+- 🌏 My personal website [https://www.ardikalivetocode.my.id/](https://www.ardikalivetocode.my.id/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
