@@ -2,7 +2,6 @@
 <h3 align="center">A backend developer that are currently learning frontend!</h3>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Soulra01&color=green" alt="Soulra01"> </p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soulra01&show_icons=true&theme=dark&title_color=ffa500&text-color=ffffff&layout=compact" alt=""></p>
 
 - 📖 I’m currently learning ***ReactJS*** and ***NodeJS***
 
@@ -21,3 +20,4 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soulra01&show_icons=true&theme=dark&title_color=ffa500&text-color=ffffff&layout=compact" alt=""></p>
