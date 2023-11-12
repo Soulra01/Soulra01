@@ -3,5 +3,4 @@
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Soulra01&color=green" alt="Soulra01"> </p>
 
-- 🔭 I’m currently working on [Soulra01](
-    
+- 🔭 I’m currently working on [Soulra01]
