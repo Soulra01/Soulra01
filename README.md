@@ -1,5 +1,5 @@
 <h1 align="center">Hai! it's Ardika here 😎</h1>
-<h3 align="center">This is only my hobbies and still learning</h3>
+<h3 align="center">A backend developer that are currently learning frontend!</h3>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Soulra01&color=green" alt="Soulra01"> </p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soulra01&show_icons=true&theme=dark&title_color=ffa500&text-color=ffffff&layout=compact" alt=""></p>
